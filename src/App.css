@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.antdForm > div > div > div > div:first-child {
+  text-align: center;
+}
+
+.formContainer {
+  margin-top: 3rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.formContainer > div {
+  background: #ffffbd;
+  border: 2px rgb(131, 131, 131) solid;
+  border-radius: 2rem;
+  width: 40%;
+  padding-top: 1rem
+}
